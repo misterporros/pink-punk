@@ -1,0 +1,8 @@
+.heading
+{
+    width: 100px;
+    text-align: left;
+}
+.heading h1{
+    display: inline;
+}
